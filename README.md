@@ -8,7 +8,7 @@ This is a web based application developed for health related telugu based websit
 
 **Project Link** - https://zealous-river-02f595100.3.azurestaticapps.net/
 
-**Project demo video link** -
+**Project demo video link** - https://youtu.be/L0f0lnmKSVM
 
 ## Azure technologies used for Project
 
